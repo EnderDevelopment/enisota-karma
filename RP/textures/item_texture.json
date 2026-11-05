@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "Энисота: Хоррор-аддон",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "karma_artifact": {
+      "textures": "textures/items/karma_artifact"
+    }
+  }
+}

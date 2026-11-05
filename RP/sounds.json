@@ -1,0 +1,50 @@
+{
+  "format_version": "1.20.0",
+  "sound_definitions": {
+    "enisota.creepy": {
+      "category": "hostile",
+      "sounds": [
+        {
+          "name": "sounds/enisota/creepy1",
+          "volume": 1.0,
+          "pitch": 0.8
+        },
+        {
+          "name": "sounds/enisota/creepy2",
+          "volume": 1.0,
+          "pitch": 0.9
+        }
+      ]
+    },
+    "enisota.whisper": {
+      "category": "hostile",
+      "sounds": [
+        {
+          "name": "sounds/enisota/whisper1",
+          "volume": 0.6,
+          "pitch": 1.1
+        }
+      ]
+    },
+    "enisota.rustle": {
+      "category": "ambient",
+      "sounds": [
+        {
+          "name": "sounds/enisota/rustle1",
+          "volume": 0.5,
+          "pitch": 1.0
+        }
+      ]
+    },
+    "enisota.rumble": {
+      "category": "ambient",
+      "sounds": [
+        {
+          "name": "sounds/enisota/rumble1",
+          "volume": 0.9,
+          "pitch": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+entity.enisota.name=Энисота
+item.enisota.karma_artifact=Артефакт кармы
+pack.name=Энисота: Хоррор-аддон
+pack.description=Хоррор-аддон с монстром Энисота и системой кармы
+action.interact.enisota=Энисота

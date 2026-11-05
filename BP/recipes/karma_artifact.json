@@ -1,0 +1,29 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "enisota:karma_artifact_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "ENE",
+      "NDN",
+      "ENE"
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:ender_pearl"
+      },
+      "N": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "enisota:karma_artifact",
+      "count": 1
+    }
+  }
+}
